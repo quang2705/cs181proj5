@@ -1,0 +1,1 @@
+keychain = {'MySQL': {'userid': 'rubens_p1', 'userpass': 'rubens_p1'}}
